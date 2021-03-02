@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 | Repo      | URL | Language |
 | ----------- | ----------- | ----------- |
-| Snake Game in Javacript     | https://github.com/prashantgupta24/snake-javascript   | Javascript |
 | A minimalistic clipboard manager for Mac   | https://github.com/prashantgupta24/go-clip        | Go
 |A minimalistic go library/app to keep your mac active and alive| https://github.com/prashantgupta24/automatic-mouse-mover | Go
 | A rest application to update firewalld rules on a linux server | https://github.com/prashantgupta24/firewalld-rest | Go
@@ -28,4 +27,6 @@ Here are some ideas to get you started:
 | A bulk email downloader from an IMAP server | https://github.com/prashantgupta24/bulk-email-downloader | Go
 | An air hockey game in python using pyxel | https://github.com/prashantgupta24/python-air-hockey | Python
 | The famous tic-tac-toe game | https://github.com/prashantgupta24/tic-tac-toe | Javascript
+| Snake Game in Javacript     | https://github.com/prashantgupta24/snake-javascript   | Javascript |
 | Afully working prototype of cryptocurrency using blockchain | https://github.com/prashantgupta24/blockchain | Python
+
