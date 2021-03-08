@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantgupta24&layout=compact&hide=java,jupyter%20notebook&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
+<a href="https://github.com/prashantgupta24/go-clip">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prashantgupta24&repo=go-clip" />
+</a>
+<a href="https://github.com/prashantgupta24/automatic-mouse-mover">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prashantgupta24&repo=automatic-mouse-mover" />
+</a>
 
 
 | Repo      | URL | Language |
@@ -35,4 +42,4 @@ Here are some ideas to get you started:
 | The famous tic-tac-toe game | https://github.com/prashantgupta24/tic-tac-toe | Javascript
 | Snake Game in Javacript     | https://github.com/prashantgupta24/snake-javascript   | Javascript |
 | Afully working prototype of cryptocurrency using blockchain | https://github.com/prashantgupta24/blockchain | Python
-
+-->
