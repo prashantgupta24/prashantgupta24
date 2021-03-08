@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashantgupta24)](https://github.com/anuraghazra/github-readme-stats)
+
+
 | Repo      | URL | Language |
 | ----------- | ----------- | ----------- |
 | A minimalistic clipboard manager for Mac   | https://github.com/prashantgupta24/go-clip        | Go
