@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 [![Prashant's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashantgupta24)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashantgupta24&layout=compact&hide=java,jupyter%20notebook&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 | Repo      | URL | Language |
 | ----------- | ----------- | ----------- |
